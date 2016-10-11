@@ -1,7 +1,7 @@
 # XD-Navigition
 # 导航栏渐变，tableView头部视图下拉放大
 ![http://ww3.sinaimg.cn/mw690/afa9a093jw1f8ogas7b9gg208w0gcb2e.gif](http://ww3.sinaimg.cn/mw690/afa9a093jw1f8ogas7b9gg208w0gcb2e.gif)
-
+![http://ww1.sinaimg.cn/mw690/afa9a093gw1f8652x7jdug208w0gknpd.gif](http://ww1.sinaimg.cn/mw690/afa9a093gw1f8652x7jdug208w0gknpd.gif)
 #import "XDViewController.h"
 #define SCREEN_WIDTH [UIScreen mainScreen].bounds.size.width
 #define SCREEN_HEIGHT [UIScreen mainScreen].bounds.size.height
